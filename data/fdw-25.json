@@ -111,8 +111,8 @@
 	},
 	{
 		"user": "luciafdezgil",
-		"url": "",
-		"src": ""
+		"url": "https://luciafdezgil.github.io/fdweb/sow/",
+		"src": "https://github.com/luciafdezgil/fdweb/tree/main/sow"
 	},
 	{
 		"user": "alvarofarrona",
@@ -135,8 +135,8 @@
 		"src": ""
 	},
 	{
-	  "user": "amparo-zamora",
-	  "url": "https://amparo-zamora.github.io/fdweb/Entrega-1/",
-	  "src": "https://github.com/amparo-zamora/fdweb/tree/main/Entrega-1"
+		"user": "amparo-zamora",
+		"url": "https://amparo-zamora.github.io/fdweb/Entrega-1/",
+		"src": "https://github.com/amparo-zamora/fdweb/tree/main/Entrega-1"
 	}
 ]
